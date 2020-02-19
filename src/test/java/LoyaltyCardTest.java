@@ -17,11 +17,11 @@ public class LoyaltyCardTest {
         item2 = new Item("cutlery", 20.0);
         shoppingBasket1.addItem(item1);
         shoppingBasket1.addItem(item2);
-        loyaltyCardDiscount = new LoyaltyCardDiscount(0.1, shoppingBasket1);
+        loyaltyCardDiscount = new LoyaltyCardDiscount(0.02, shoppingBasket1);
     }
 
     @Test
     public void checkCorrectTotalOnceDiscountApplied() {
-        assertEquals(27.0, loyaltyCardDiscount.discountedAmount(shoppingBasket1.getItems(), shoppingBasket1.getTotal()));
+        assertEquals(29.4, loyaltyCardDiscount.discountedAmount(shoppingBasket1.getItems(), shoppingBasket1.getTotal()));
     }
 }

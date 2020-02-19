@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ef4a8918-346c-4d30-af89-82ceb2a27877" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/LoyaltyCardDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LoyaltyCardDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LoyaltyCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LoyaltyCardTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
