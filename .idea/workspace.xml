@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef4a8918-346c-4d30-af89-82ceb2a27877" name="Default Changelist" comment="" />
+    <list default="true" id="ef4a8918-346c-4d30-af89-82ceb2a27877" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/IDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PercentageDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoyaltyCardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PercentageDiscountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BuyOneGetOneFreeDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BuyOneGetOneFreeDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Discount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TenPerCentOffDiscount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TwoPerCentOffLoyaltyCardDiscount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LoyaltyCardDiscount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BuyOneGetOneFreeDiscount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BuyOneGetOneFreeDiscount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Discount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TenPerCentOffDiscount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TwoPerCentOffLoyaltyCardDiscount.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,9 +26,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,7 +42,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1Y1tYu7q5mYClCub2OxTIcSBbGU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
@@ -38,11 +59,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ShoppingBasketTest">
+  <component name="RunManager" selected="JUnit.LoyaltyCardTest">
     <configuration name="ItemTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="shoppingBasketLab" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ItemTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoyaltyCardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingBasketLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoyaltyCardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PercentageDiscountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shoppingBasketLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PercentageDiscountTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,6 +98,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LoyaltyCardTest" />
+        <item itemvalue="JUnit.PercentageDiscountTest" />
         <item itemvalue="JUnit.ShoppingBasketTest" />
         <item itemvalue="JUnit.ItemTest" />
       </list>
@@ -76,5 +117,16 @@
       <updated>1582121978920</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
